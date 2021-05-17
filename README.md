@@ -7,7 +7,7 @@ KT Connect
 [![Maintainability](https://api.codeclimate.com/v1/badges/eb13b3946784bd7c67cc/maintainability)](https://codeclimate.com/github/alibaba/kt-connect/maintainability)
 ![License](https://img.shields.io/github/license/alibaba/kt-connect.svg)
 
-Manage and integrate with your Kubernetes dev environment more efficiently.
+Manage and integrate with your Kubernetes dev environment more efficiently.22222
 
 ![Arch](./docs/media/arch.png)
 
